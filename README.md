@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me with email
 - 😄 Pronouns: he/hee
-- ⚡ Fun fact: im still learninh
+- ⚡ Fun fact: im still learning
 
 <!---
 La-Noir/La-Noir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
