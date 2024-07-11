@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @La-Noir
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning html,css and js
+- 🌱 I’m currently learning html,css,lua and js
 - 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me with email
 - 😄 Pronouns: he/hee
